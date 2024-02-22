@@ -1,0 +1,68 @@
+{
+    "Picnic Events":
+    {
+        "insignia": "wine",
+        "memoir": "Relax and enjoy your special day without worrying about the details. Our wedding planning and Coordination services ensure that everything runs smoothly from start to finish, so you can focus on making memories that will last a lifetime. We believe that every occasion, big and small, deserves to be stunning. That's why we have taken the humble picnic and elevated it with picture-perfect design and dreamlike grazing platters. Perfect for any occasion you wish to celebrate. Whether it's a date night, birthday, bridal shower, baby shower, corporate event or simply a picnic to celebrate life, let us take care of everything you need! Just relax, get cozy and enjoy the time with others, while lounging on the most comfortable blankets and cushions and indulging in a delicious grazing board. Greatness lies in the details. It's the little things - from our intricately hand-woven macrame pillows to our mindfully-curated grazing boards - that give our picnics a cozy, yet luxurious feel. Every aspect of our picnic events has been carefully planned with an aspiration for quality, sophistication, and charm."
+    },
+    "Palais de Justice":
+    {
+        "country": "BE",
+        "insignia": "capitol",
+        "memoir": "When its construction finished in 1883, the Justice Palace was the largest building in the world, and even today it is one of the most spectacular. Le Palais de Justice (The Palace of Justice) is one of the largest and most impressive buildings in the whole of Europe. It is currently still the most important court building in Belgium. Due to its cheer size; 160 by 150 meters and a total ground surface of 26,000 m² and its location on the high Town of Brussels, the building is visible from most parts of the town. The best views of Brussels are found on Poelaert Square, where the main entrance to the building is located. The building was constructed between 1866 and 1883 by Joseph Poelaert, who died four years before the Palace was inaugurated. For the building to be completed, 3,000 houses had to be torn down. At the end of World War II when the Germans were chased out of Belgium, they set fire to the Palace and the dome collapsed. The new dome is taller, narrower and very different from the original one."
+    },
+    "Audrey Hepburn":
+    {
+        "height": 1.7,
+        "weight": 47,
+        "sizes": "76-51-86",
+        "shoe_size": 10.5,
+        "country": "EU"
+    },
+    "Olivia Culpo":
+    {
+        "height": 1.66,
+        "weight": 52,
+        "sizes": "81-64-89",
+        "shoe_size": 8,
+        "country": "US"
+    },
+    "Elena Gheorghe":
+    {
+        "height": 1.6,
+        "weight": 0,
+        "sizes": "X-X-X",
+        "shoe_size": 7.5,
+        "country": "RO"
+    },
+    "Eva Darling":
+    {
+        "country": "US",
+        "height": 0,
+        "weight": 0,
+        "sizes": "X-X-X",
+        "shoe_size": 0,
+        "maison": "https://www.eva-darling.com",
+        "memoir": "Hi, I’m Eva! I’d like to think of myself of an aspiring Blair Waldorf-type (although I can’t say I’ve been all that successful). I grew up in the Minneapple (Minnesota). Now, I’m trying to make it in the Big Apple (5 years and counting!). I’ve got a case of travel bug that can’t be cured, so you’re equally as likely to find me on a plane as you are home. Although I travel frequently, returning to Manhattan is always as exciting as the first time. This city is something else. I recently graduated from my dream school, Parsons School of Design, with a Fashion Design BFA, and loved every single second of it. I started Eva Darling as “The Preppy Ballerina” (collective cringe, I know) on my 14th birthday, in my parents’ basement with a love for Lilly Pulitzer and a collection of questionable images from my iPod Touch 4. Nearly 10 years later, Eva Darling has transformed into a luxury travel and style website, where I aim to empower women to see the world solo and provide honest, reliable travel advice, while sharing on-trend feminine style. For my solo female travelers (or any traveler!) out there, I’m always an email away!"
+    },
+    "Tiffany Haddish":
+    {
+        "country": "US",
+        "memoir": "Tiffany Haddish channels her inner Audrey Hepburn and talks to Harper’s Bazaar magazine about why what the world needs now is more Meryl Streep. On interacting with her fans in person: “I don’t mind anybody talking to me, but if I’m eating, that makes me mad because I have a serious relationship with food. When people come over to me when I’m eating, I’m always surprised they’re not like, ‘Tiffany Haddish is an evil bitch.’” On getting bat mitzvahed on her 40th birthday: “I learned Hebrew and everything. I was doing those bar mitzvahs for like 11 years, so I was always learning things.” On how she was introduced to PopSockets: “Taylor Swift was the first one that got me into these things. She was like, ‘Here, get some memorabilia from my concert.’ I was like, ‘What is this?’ And she was like, ‘You put it on your cell phone.’”"
+    },
+    "Camila Cabello":
+    {
+        "height": 1.57,
+        "weight": 50,
+        "sizes": "87-64-90",
+        "shoe_size": 7,
+        "country": "US"
+    },
+    "Barbara Palvin":
+    {
+        "height": 1.75,
+        "weight": 58,
+        "sizes": "85-59-89",
+        "shoe_size": 8,
+        "country": "HU"
+    }
+}

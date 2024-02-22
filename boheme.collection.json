@@ -1,0 +1,20 @@
+{
+    "000":
+    {
+        "title": "New York Fashion Week [quarter] [year]",
+        "language":
+        {
+            "RU": "Неделя моды в Нью-Йорке [quarter] [year]",
+            "JP": "[year] アメリカ合衆国 ([quarter])"
+        }
+    },
+    "001":
+    {
+        "title": "The Beauty of Old Hollywood Glamour",
+        "language":
+        {
+            "RU": "Атмосфера Золотого века Голливуда",
+            "JP": "オールドハリウッドの優雅さ"
+        }
+    }
+}
