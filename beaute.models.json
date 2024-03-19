@@ -68,6 +68,15 @@
         "country": "GB",
         "birthday": "August 12, 1992"
     },
+    "Victoria Justice":
+    {
+        "height": 1.66,
+        "weight": 53,
+        "sizes": "87-61-89",
+        "shoe_size": 6.5,
+        "country": "US",
+        "birthday": "February 19, 1993"
+    },
     "Marilyn Monroe":
     {
         "height": 1.66,
