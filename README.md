@@ -1,9 +1,5 @@
-# Eurohouse Le Beau Monde Collection
-A premium quality, aesthetic wallpapers for every moment of your life.
+# Le Beau Monde Collection
+A free web collection of wallpapers from all around the world.
 
-_"Elegance is the only beauty that never fades." - Audrey Hepburn_
-
-![Collage](https://github.com/eurohouse/beaute/blob/main/beaute.collage.png?raw=true)
-
-The wallpaper collection contains only high-quality, realistic 4K UHD images with cool color palette. This collection is generally introduced with European wallpapers. The whole background collection is introduced with various photos of places in Europe and some other parts of the world made in cool color palette.
+_"I can understand wanting to have millions of dollars, there’s a certain freedom, meaningful freedom, that comes with that. But once you get much beyond that, I have to tell you, it’s the same hamburger." - Bill Gates_
 
