@@ -17,7 +17,14 @@
         "sizes": "76-51-86",
         "shoe_size": 10.5,
         "country": "EU",
-        "birthday": "May 4, 1929"
+        "birthday": "May 4, 1929",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Одри Хепберн"
+            }
+        }
     },
     "Olivia Culpo":
     {
@@ -26,7 +33,14 @@
         "sizes": "81-64-89",
         "shoe_size": 8,
         "country": "US",
-        "birthday": "May 8, 1992"
+        "birthday": "May 8, 1992",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Оливия Калпо"
+            }
+        }
     },
     "Elena Gheorghe":
     {
@@ -35,7 +49,14 @@
         "sizes": "X-X-X",
         "shoe_size": 7.5,
         "country": "RO",
-        "birthday": "July 30, 1985"
+        "birthday": "July 30, 1985",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Елена Георге"
+            }
+        }
     },
     "Eva Darling":
     {
@@ -57,7 +78,14 @@
         "sizes": "87-64-90",
         "shoe_size": 7,
         "country": "US",
-        "birthday": "March 3, 1997"
+        "birthday": "March 3, 1997",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Камила Кабельо"
+            }
+        }
     },
     "Cara Delevingne":
     {
@@ -66,7 +94,14 @@
         "sizes": "81-61-87",
         "shoe_size": 8.5,
         "country": "GB",
-        "birthday": "August 12, 1992"
+        "birthday": "August 12, 1992",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Кара Делевинь"
+            }
+        }
     },
     "Victoria Justice":
     {
@@ -75,7 +110,14 @@
         "sizes": "87-61-89",
         "shoe_size": 6.5,
         "country": "US",
-        "birthday": "February 19, 1993"
+        "birthday": "February 19, 1993",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Виктория Джастис"
+            }
+        }
     },
     "Marilyn Monroe":
     {
@@ -84,7 +126,14 @@
         "sizes": "91-56-91",
         "shoe_size": 7,
         "country": "US",
-        "birthday": "June 1, 1926"
+        "birthday": "June 1, 1926",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Мэрилин Монро"
+            }
+        }
     },
     "Barbara Palvin":
     {
@@ -93,7 +142,14 @@
         "sizes": "85-59-89",
         "shoe_size": 8,
         "country": "HU",
-        "birthday": "October 8, 1993"
+        "birthday": "October 8, 1993",
+        "language":
+        {
+            "RU":
+            {
+                "title": "Барбара Палвин"
+            }
+        }
     },
     "European ☕️ Café 🍫 Culture 🍷":
     {
